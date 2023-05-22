@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/alta/static/css/main.3ce23c5e.css",
+    "main.js": "/alta/static/js/main.0c289c7f.js",
+    "static/js/787.79ddfdc0.chunk.js": "/alta/static/js/787.79ddfdc0.chunk.js",
+    "static/media/Group341.png": "/alta/static/media/Group341.a5e2c5288c576ab02608.png",
+    "index.html": "/alta/index.html",
+    "main.3ce23c5e.css.map": "/alta/static/css/main.3ce23c5e.css.map",
+    "main.0c289c7f.js.map": "/alta/static/js/main.0c289c7f.js.map",
+    "787.79ddfdc0.chunk.js.map": "/alta/static/js/787.79ddfdc0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ce23c5e.css",
+    "static/js/main.0c289c7f.js"
+  ]
+}
